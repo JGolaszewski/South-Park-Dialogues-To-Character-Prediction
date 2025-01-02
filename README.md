@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This notebook is a part of project for university class "PRiAD" (Presentation and Analysis of Data). The main goal of this project is to analyze South Park dialogues and predict which character said which dialogue. The dataset used in this project is available on Kaggle: https://www.kaggle.com/tovarischsukhov/southparklines. The dataset contains 70896 dialogues from 5 seasons of South Park. The dataset contains the following columns: Season, Episode, Character, Line. The dataset is in CSV format.
+This notebook is a part of project for university class "PRiAD" (Presentation and Analysis of Data). The main goal of this project is to analyze [South Park](https://en.wikipedia.org/wiki/South_Park) dialogues and predict which character said which dialogue. The dataset used in this project is available on Kaggle: https://www.kaggle.com/tovarischsukhov/southparklines. The dataset contains 70896 dialogues from 18 seasons of South Park. The dataset contains the following columns: Season, Episode, Character, Line. The dataset is in CSV format.
 
 ## Goals
 
@@ -19,6 +19,9 @@ The following tools will be used in this project:
 - Numpy
 - Matplotlib
 - Seaborn
+- nltk
+- re
+- WordCloud
 - ***And more to come...***
 
 ***
