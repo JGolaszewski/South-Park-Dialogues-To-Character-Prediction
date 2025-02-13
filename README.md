@@ -22,7 +22,6 @@ The following tools will be used in this project:
 - nltk
 - re
 - WordCloud
-- ***And more to come...***
 
 ***
 
